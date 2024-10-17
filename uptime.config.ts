@@ -47,6 +47,12 @@ const workerConfig = {
       target: 'https://ssh.shulng.us.kg'
     },
     {
+      id: '短链生成器',
+      name: '短链生成器',
+      method: 'GET',
+      target: 'https://linklet.shulng.us.kg'
+    },
+    {
       id: '订阅链接',
       name: '订阅链接',
       method: 'GET',
