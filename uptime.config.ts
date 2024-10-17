@@ -41,8 +41,8 @@ const workerConfig = {
       target: 'https://docker.shuiling.us.kg'
     },
     {
-      id: 'SSH',
-      name: 'SSH',
+      id: 'WebSSH',
+      name: 'WebSSH',
       method: 'GET',
       target: 'https://ssh.shulng.us.kg'
     },
