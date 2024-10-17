@@ -54,7 +54,7 @@ const workerConfig = {
     },
     {
       id: 's4.socks5',
-      name: 's4.serv00',
+      name: 's4.socks5',
       method: 'TCP_PING',
       target: '213.189.52.181:55310'
     },
