@@ -52,6 +52,18 @@ const workerConfig = {
       method: 'GET',
       target: 'https://sub.shulng.us.kg/auto'
     },
+    {
+      id: 's4.socks5',
+      name: 's4.serv00',
+      method: 'TCP_PING',
+      target: '213.189.52.181:55310'
+    },
+    {
+      id: 's10.socks5',
+      name: 's10.socks5',
+      method: 'TCP_PING',
+      target: '91.185.190.159:30779'
+    },
   ],
   notification: {
     // [Optional] apprise API server URL
