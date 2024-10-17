@@ -70,6 +70,12 @@ const workerConfig = {
       method: 'TCP_PING',
       target: '91.185.190.159:30779'
     },
+    {
+      id: '图床',
+      name: '图床',
+      method: 'GET',
+      target: 'https://img.shulng.us.kg'
+    },
   ],
   notification: {
     // [Optional] apprise API server URL
