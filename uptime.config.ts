@@ -3,8 +3,8 @@ const pageConfig = {
   title: "shulng's Status Page",
   // Links shown at the header of your status page, could set `highlight` to `true`
   links: [
-    { link: 'https://shulng.us.kg/', label: 'GitHub' },
-    { link: 'https://shulng.us.kg/', label: 'Blog' },
+    { link: 'https://github.com/shulng', label: 'GitHub' },
+    { link: 'https://shulng.us.kg', label: 'Blog' },
     { link: 'admin@shulng.us.kg', label: 'Email Me', highlight: true },
   ],
 }
