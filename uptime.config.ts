@@ -40,6 +40,12 @@ const workerConfig = {
       method: 'GET',
       target: 'https://docker.shuiling.us.kg'
     },
+    {
+      id: '订阅链接',
+      name: '订阅链接',
+      method: 'GET',
+      target: 'https://sub.shulng.us.kg/auto'
+    },
   ],
   notification: {
     // [Optional] apprise API server URL
