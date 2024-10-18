@@ -35,6 +35,12 @@ const workerConfig = {
       target: 'https://gh-proxy.shulng.us.kg'
     },
     {
+      id: 'GitHub 文件加速 page',
+      name: 'GitHub 文件加速 page',
+      method: 'GET',
+      target: 'https://gh-proxy-page.shulng.us.kg'
+    },
+    {
       id: 'DockerHub 镜像服务',
       name: 'DockerHub 镜像服务',
       method: 'GET',
