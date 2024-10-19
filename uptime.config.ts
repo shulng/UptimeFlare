@@ -5,7 +5,7 @@ const pageConfig = {
   links: [
     { link: 'https://github.com/shulng', label: 'GitHub' },
     { link: 'https://shulng.us.kg', label: 'Blog' },
-    { link: 'admin@shulng.us.kg', label: 'Email Me', highlight: true },
+    { link: 'mailto:admin@shulng.us.kg', label: 'Email Me', highlight: true },
   ],
 }
 
